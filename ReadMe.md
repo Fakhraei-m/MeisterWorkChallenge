@@ -3,7 +3,7 @@
 Info:
 In case you need to change browsers driver, place the drivers exe file in ./src/main/resources/drivers/
 In case you need to change dependencies or the Java version, refer to ./pom.xml
-In case you need to change the Credential, it can be found in ./src/main/java/ms/app/qa/config/config.properties
+*Enter the Password for Credential in ./src/main/java/ms/app/qa/config/config.properties
 
 Run Tests:
 Run the testng_E2E.xml file as TestNG Suite
